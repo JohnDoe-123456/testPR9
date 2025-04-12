@@ -1,0 +1,23 @@
+body {
+  background: #000;
+}
+
+.container {
+  padding: 100px;
+  background: #3b2626;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 25px;
+  color: #fff;
+  text-shadow: -1px -2px 3px #fff;
+}
+
+p {
+  color: #fff;
+  line-height: 3em;
+  text-shadow: -1px -2px 3px #6e6b6b;
+}
